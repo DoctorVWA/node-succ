@@ -1,0 +1,11 @@
+{
+  "name": "succ",
+  "version": "1.0.0",
+  "description": "A version of SUCC (Sexy and Utilitarian C# Configuration by Jimmy Cushnie) ported for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DoctorVWA",
+  "license": "WTFPL"
+}
